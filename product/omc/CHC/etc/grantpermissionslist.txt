@@ -1,0 +1,12 @@
+#-----------------Usage-------------------
+#PackageName/PermissionName
+com.sec.android.app.voicenote/android.permission.RECORD_AUDIO
+com.sec.android.app.voicenote/android.permission.READ_EXTERNAL_STORAGE
+com.sec.android.app.voicenote/android.permission.WRITE_EXTERNAL_STORAGE
+com.sec.android.app.voicenote/android.permission.CALL_PHONE
+com.sec.android.app.voicenote/android.permission.READ_PHONE_STATE
+com.google.android.syncadapters.contacts/android.permission.READ_CONTACTS
+com.google.android.syncadapters.contacts/android.permission.WRITE_CONTACTS
+com.google.android.syncadapters.contacts/android.permission.GET_ACCOUNTS
+com.google.android.syncadapters.calendar/android.permission.READ_CALENDAR
+com.google.android.syncadapters.calendar/android.permission.WRITE_CALENDAR

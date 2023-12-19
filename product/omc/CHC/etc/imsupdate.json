@@ -1,0 +1,14 @@
+{
+  "update_version": 1,
+  "min_swver": "",
+  "note": "Disable RCS Service",
+  "imsswitch_update": {
+    "imsswitch": [
+      {
+        "mnoname": "CMCC_CN",
+        "enableServiceRcs": false,
+        "enableServiceRcschat": false
+      }
+    ]
+  }
+}
