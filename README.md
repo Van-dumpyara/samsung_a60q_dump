@@ -1,0 +1,14 @@
+# a60qzc-user 11 RP1A.200720.012 A6060ZCS3CWE1 release-keys
+- manufacturer: samsung
+- platform: sm6150
+- codename: a60q
+- flavor: a60qzc-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A6060ZCS3CWE1
+- tags: release-keys
+- fingerprint: samsung/a60qzc/a60q:11/RP1A.200720.012/A6060ZCS3CWE1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a60qzc-user-11-RP1A.200720.012-A6060ZCS3CWE1-release-keys
+- repo: samsung_a60q_dump
